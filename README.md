@@ -4,7 +4,7 @@
  - Bióloga de formação pela UFPE e mestre em Etnobiologia e Conservação da Natureza pela UFRPE
  - Apaixonada pela natureza, artesanato e pela literatura
 
-Atualmente em processo de transição de carreira como aluna na Faculdade SENAC-PE no curso de Análise e Desenvolvimento de Sistemas
+Atualmente em processo de transição de carreira como aluna na Faculdade SENAC-PE no curso de Análise e Desenvolvimento de Sistemas</br>
 Tenho como principal interesse de estudo o desenvovimento de sistemas **Back-End**
 
 </br>
