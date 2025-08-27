@@ -7,12 +7,14 @@
 Atualmente em processo de transição de carreira como aluna na Faculdade SENAC-PE no curso de Análise e Desenvolvimento de Sistemas
 Tenho como principal interesse de estudo o desenvovimento de sistemas **Back-End**
 
-
-[LinkedIn](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) para contato 
-
-
 </br>
 <div align="center">
+ 
+[LinkedIn](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) para contato 
+
+![cachorro](https://adimax.com.br/wp-content/uploads/2022/05/cuidados-filhote-de-cachorro.jpg)
+
+
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yasmimacs"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yasmimacs&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
 </div>
