@@ -5,7 +5,7 @@
  - Apaixonada pela natureza, artesanato e pela literatura 📖
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac-PE </br>
-Tenho como principal interesse o campo de **análises de dados** e no desenvovimento de sistemas **Back-End**
+Tenho como principal interesse a área de **análise de dados** e o desenvolvimento de sistemas **Back-End**.
 
 ### Experiência em linguagens de programação:
  - R
