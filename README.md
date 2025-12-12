@@ -7,8 +7,9 @@
 Atualmente, curso Análise e Desenvolvimento de Sistemas na Faculdade Senac PE, direcionando minha carreira para a área de tecnologia e ciência de dados. Tenho interesse em unir minha formação científica à tecnologia, aplicando soluções baseadas em dados para gerar impacto positivo e inovação.
 
 ### Experiência em linguagens de programação:
- - R
- - Python
+ - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="25" height="25"> (R) 
+ - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="25" height="25"> (Python)
+ - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40"> (SQL)
 
 </br>
 <div align="center">
