@@ -11,6 +11,9 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na Faculdade Senac PE, 
  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="25" height="25"> (Python)
  - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40"> (SQL)
 
+### Experiência em ferramentas de design:
+ - <img src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" width="30" height="30"> (Figma)
+
 </br>
 <div align="center">
  
