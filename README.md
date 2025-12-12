@@ -4,7 +4,7 @@
  - Bióloga de formação pela UFPE e mestre em Etnobiologia e Conservação da Natureza pela UFRPE 🌱
  - Apaixonada pela natureza, artesanato e pela literatura 📖
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas na Faculdade Senac PE, direcionando minha carreira para a área de tecnologia e ciência de dados, mas desde minhas formações anteriores tenho contato direto com a programação. Tenho interesse em unir minha formação científica à tecnologia, aplicando soluções baseadas em dados para gerar impacto positivo e inovação.
+Atualmente, curso Análise e Desenvolvimento de Sistemas na Faculdade Senac PE, direcionando minha carreira oficialmente para a área de tecnologia e ciência de dados, mas desde minhas formações anteriores tenho contato direto com a programação. Tenho interesse em unir minha formação científica à tecnologia, aplicando soluções baseadas em dados para gerar impacto positivo e inovação.
 
 ### Experiência em linguagens de programação:
  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="25" height="25"> (R) 
