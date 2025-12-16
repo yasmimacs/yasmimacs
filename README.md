@@ -18,7 +18,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na Faculdade Senac PE, 
 </br>
 <div align="center">
  
-### [LinkedIn](https://linkedin.com/in/yasmim-antonino-costa-dos-santos-7b8ba5335) para contato 
+### [LinkedIn](https://www.linkedin.com/in/yasmim-antonino-santos-7b8ba5335/) para contato 
 
 ![Kiki observando a paisagem](https://i.pinimg.com/originals/8c/ac/ec/8cacec3c6545e952341c2a5b90f047b0.gif)
 
